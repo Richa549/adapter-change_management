@@ -96,7 +96,7 @@ function get(serviceNowTable, callback) {
 
 }
 
-//duplicate Callback_function
+//duplicate function get
 
 /**
  * @function post
